@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Teng-Yun Hsiao / 蕭登允 "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,11 +25,11 @@ author:
   avatar           : "249749.png"
   name             : "Teng-Yun Hsiao(蕭登允)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Taipei, Taiwan"
+  employer         : "National Taiwan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "b10502058@ntu.edu.tw" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
